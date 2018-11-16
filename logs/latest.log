@@ -1,0 +1,17 @@
+[21:51:30] [Client thread/INFO]: Setting user: AlecRuin
+[21:51:32] [Client thread/WARN]: Skipping bad option: streamPreferredServer:
+[21:51:32] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+[21:51:33] [Client thread/INFO]: Reloading ResourceManager: Default
+[21:51:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:51:34] [Thread-2/INFO]: Initializing No Sound
+[21:51:34] [Thread-2/INFO]: (Silent Mode)
+[21:51:34] [Thread-2/INFO]: OpenAL initialized.
+[21:51:35] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[21:51:35] [Sound Library Loader/INFO]: Sound engine started
+[21:51:40] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[21:51:42] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[21:51:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:51:48] [Client thread/INFO]: Connecting to localhost, 25565
+[21:51:58] [Client thread/INFO]: Stopping!
+[21:51:58] [Client thread/INFO]: SoundSystem shutting down...
+[21:51:59] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com

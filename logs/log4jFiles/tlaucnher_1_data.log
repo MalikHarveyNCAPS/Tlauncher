@@ -1,0 +1,667 @@
+2018-11-15 19:38:24,584 main [Loading] INITALIZING
+Starting TLauncher 2.48
+For more information, visit https://tlauncher.org/
+Machine info: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+Startup time: Nov 15, 2018 7:38:23 PM
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\Ruin\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-11-15 19:38:24,584 main [Downloader2] Loaded configuration: good
+2018-11-15 19:38:24,703 ExtendedThread#4 [Updater] Requesting an update...
+2018-11-15 19:38:24,705 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-11-15 19:38:24,706 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.48&client=2e291208-3e1e-4e52-b77f-0b84ad9691ea
+2018-11-15 19:38:24,833 main [Browser] Loading resources...
+2018-11-15 19:38:24,989 main [Browser] Loading background...
+2018-11-15 19:38:25,060 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2018-11-15 19:38:25,073 main [Browser] Cleaning up after loading:
+2018-11-15 19:38:25,073 main Starting garbage collector: 55 / 128 MB
+2018-11-15 19:38:25,135 main Garbage collector completed: 15 / 138 MB
+2018-11-15 19:38:25,137 main [Loading] LOADING_MANAGERS
+2018-11-15 19:38:25,138 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-11-15 19:38:25,138 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-11-15 19:38:25,145 main [LocalVersionList] Base directory: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 19:38:25,154 main [ProfileManager] Refreshing profiles from: C:\Users\Ruin\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2018-11-15 19:38:25,157 main [TLauncherManager] Refresh allowed: true
+2018-11-15 19:38:25,158 ExtendedThread#6 [TLauncherManager] Refreshing TLauncher...
+2018-11-15 19:38:25,159 main [AdvertisingStatusObserver]  started to get ad information
+2018-11-15 19:38:25,159 ExtendedThread#4 [Updater] Request time: 454 ms
+2018-11-15 19:38:25,159 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-11-15 19:38:25,160 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-11-15 19:38:25,203 JavaFX Application Thread [Browser] Initializing...
+2018-11-15 19:38:25,439 ExtendedThread#6 [TLauncherManager] Refreshed successfully!
+2018-11-15 19:38:25,498 main [AdvertisingStatusObserver]  finished to get add information
+2018-11-15 19:38:25,501 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-11-15 19:38:25,899 main [Loading] LOADING_WINDOW
+2018-11-15 19:38:25,927 main [Loading] PREPARING_MAINPANE
+2018-11-15 19:38:26,276 main [Downloader2] Loaded configuration: good
+2018-11-15 19:38:26,476 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2018-11-15 19:38:26,476 JavaFX Application Thread [Browser@859533504] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2018-11-15 19:38:26,565 JavaFX Application Thread [Browser] add listens into server_choose
+2018-11-15 19:38:27,145 main [Loading] POSTINIT_GUI
+2018-11-15 19:38:27,145 main [Frame] Packing main frame...
+2018-11-15 19:38:27,187 main [Frame] Resizing main pane...
+2018-11-15 19:38:27,188 main Updater is already closed. Showing up...
+2018-11-15 19:38:27,188 main Visibility set.
+2018-11-15 19:38:27,189 main [Loading] REFRESHING_INFO
+2018-11-15 19:38:27,190 ExtendedThread#6 [VersionManager] Refreshing versions remotely...
+2018-11-15 19:38:27,191 main Started! (3281 ms.)
+2018-11-15 19:38:27,191 main [Loading] SUCCESS
+2018-11-15 19:38:27,191 ExtendedThread#4 [ServerListManager] Refreshing servers...
+2018-11-15 19:38:27,191 ExtendedThread#4 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-11-15 19:38:27,191 ExtendedThread#4 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-11-15 19:38:27,226 main [TLauncher] show tlauncher!!!
+2018-11-15 19:38:27,228 main [Double running] clear time label
+2018-11-15 19:38:27,318 AsyncObject#19 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-11-15 19:38:27,318 AsyncObject#19 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2018-11-15 19:38:27,319 AsyncObject#18 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-11-15 19:38:27,319 AsyncObject#18 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-11-15 19:38:27,325 AsyncObject#20 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-11-15 19:38:27,326 AsyncObject#20 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2018-11-15 19:38:27,365 ExtendedThread#4 [REPO][SERVERLIST_REPO] Success: Reached the repo in 173 ms.
+2018-11-15 19:38:27,370 ExtendedThread#4 [ServerListManager] Got in 179 ms
+2018-11-15 19:38:27,371 ExtendedThread#4 [ServerListManager] Servers has been refreshed (180 ms)
+2018-11-15 19:38:27,372 ExtendedThread#4 [ServerListManager] ServerList{[]}
+2018-11-15 19:38:27,674 AsyncObject#19 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 356 ms.
+2018-11-15 19:38:27,724 AsyncObject#20 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 397 ms.
+2018-11-15 19:38:27,728 AsyncObject#19 [ExtraVersionList] Got in 410 ms
+2018-11-15 19:38:27,736 AsyncObject#20 [SkinVersionList] Got in 411 ms
+2018-11-15 19:38:28,062 AsyncObject#18 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 743 ms.
+2018-11-15 19:38:28,147 AsyncObject#18 [OfficialVersionList] Got in 828 ms
+2018-11-15 19:38:28,149 ExtendedThread#6 [VersionManager] Versions has been refreshed (862 ms)
+2018-11-15 19:38:28,181 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-11-15 19:38:28,188 Thread-16 run server on  37842
+2018-11-15 19:38:28,417 ExtendedThread#6 [TLauncher] init popupMenuManager
+2018-11-15 19:38:28,780 main #####    all servers are available   ######
+2018-11-15 19:38:37,301 JavaFX Application Thread [OS] Trying to open link with default browser: https://tlauncher.org/en/help.html
+2018-11-15 19:39:14,308 LoopedThread#7 [LoginForm] Catched a wait task from this listener, waiting...
+2018-11-15 19:39:14,310 LoopedThread#7 instancefor: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 19:39:14,325 LoopedThread#7 [TlauncherAuthenticator] Staring to authenticate: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 19:39:14,329 LoopedThread#7 [TlauncherAuthenticator] hasUsername: AlecRuin
+2018-11-15 19:39:14,330 LoopedThread#7 [TlauncherAuthenticator] hasPassword: false
+2018-11-15 19:39:14,331 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 19:39:14,332 LoopedThread#7 [TlauncherAuthenticator] Loggining in with token
+2018-11-15 19:39:14,768 LoopedThread#7 [TlauncherAuthenticator] Log in successful!
+2018-11-15 19:39:14,769 LoopedThread#7 [TlauncherAuthenticator] hasUUID: true
+2018-11-15 19:39:14,770 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 19:39:14,771 LoopedThread#7 [TlauncherAuthenticator] hasProfiles: false
+2018-11-15 19:39:14,772 LoopedThread#7 [TlauncherAuthenticator] hasProfile: false
+2018-11-15 19:39:14,773 LoopedThread#7 [TlauncherAuthenticator] hasProperties: true
+2018-11-15 19:39:14,783 LoopedThread#7 [LoginForm] Login was OK. Trying to launch now.
+2018-11-15 19:39:15,040 LoopedThread#7 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-11-15 19:39:15,042 LoopedThread#7 [Launcher] Running under TLauncher 2.48
+2018-11-15 19:39:15,043 LoopedThread#7 [Launcher] Current machine: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+2018-11-15 19:39:15,045 LoopedThread#7 [Launcher] Collecting info...
+2018-11-15 19:39:15,057 LoopedThread#7 [TLauncherManager] before clearLibrary 
+2018-11-15 19:39:15,061 LoopedThread#7 [TLauncherManager] written:  []
+2018-11-15 19:39:15,062 LoopedThread#7 [TLauncherManager] after clearLibrary 
+2018-11-15 19:39:15,063 LoopedThread#7 [Launcher] Force update: false
+2018-11-15 19:39:15,064 LoopedThread#7 [Launcher] Selected version: latest-release
+2018-11-15 19:39:15,065 LoopedThread#7 [Launcher] Selected account: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 19:39:15,068 LoopedThread#7 [Launcher] Version sync info: VersionSyncInfo{id='1.13.2',
+local=CompleteVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13.1', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.14', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.19', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@315aaf29, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@274757b8, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-11-15 19:39:15,158 LoopedThread#7 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+2018-11-15 19:39:15,160 LoopedThread#7 [Launcher] Checking conditions...
+2018-11-15 19:39:15,171 LoopedThread#7 [Launcher] Comparing assets...
+2018-11-15 19:39:15,172 LoopedThread#7 [AssetsManager] Checking resources...
+2018-11-15 19:39:15,173 LoopedThread#7 [AssetsManager] Reading indexes from file C:\Users\Ruin\AppData\Roaming\.minecraft\assets\indexes\1.13.1.json
+2018-11-15 19:39:15,190 LoopedThread#7 [AssetsManager] Fast comparing: true
+2018-11-15 19:39:15,361 LoopedThread#7 [Launcher] Delta time to compare assets: 189 ms.
+2018-11-15 19:39:15,615 LoopedThread#7 [VersionManager] Required for version 1.13.2: []
+2018-11-15 19:39:15,617 LoopedThread#7 [Modpack]  got container
+2018-11-15 19:39:15,640 LoopedThread#7 [Launcher] Unpacking natives...
+2018-11-15 19:39:15,648 LoopedThread#7 [Launcher] Constructing process...
+2018-11-15 19:39:15,649 LoopedThread#7 [Launcher] Constructing classpath...
+2018-11-15 19:39:15,654 LoopedThread#7 [Launcher] Getting Minecraft arguments...
+2018-11-15 19:39:15,673 LoopedThread#7 read servers from servers.dat []
+2018-11-15 19:39:15,673 LoopedThread#7 [InnerMinecraftServersImpl]  search removed servers
+2018-11-15 19:39:15,674 LoopedThread#7 [InnerMinecraftServersImpl]  prepare inner servers
+2018-11-15 19:39:15,678 LoopedThread#7 save servers to servers.dat []
+2018-11-15 19:39:15,680 LoopedThread#7 [Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe -Xmn128M -Xmx7274M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.14\brigadier-1.0.14.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\1.0.19\datafixerupper-1.0.19.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.13.9\realms-1.13.9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\1.13.2.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main --username AlecRuin --version 1.13.2 --gameDir C:\Users\Ruin\AppData\Roaming\.minecraft --assetsDir C:\Users\Ruin\AppData\Roaming\.minecraft\assets --assetIndex 1.13.1 --uuid bb97c27be93c11e88716002590a1379b --accessToken eed1edf2-9c29-4ee0-a181-36f4928da704 --userType mojang --versionType release --width 925 --height 530
+2018-11-15 19:39:15,745 LoopedThread#7 [Launcher] Launching Minecraft...
+2018-11-15 19:39:15,747 LoopedThread#7 I'm hiding!
+2018-11-15 19:39:15,748 LoopedThread#7 [TLauncherManager] before onMinecraftLaunch 
+2018-11-15 19:39:15,749 LoopedThread#7 [TLauncherManager] read from  C:\Users\Ruin\AppData\Roaming\.minecraft\TempOptifineStore-1.0.json []
+2018-11-15 19:39:15,753 LoopedThread#7 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-11-15 19:39:15,754 LoopedThread#7 [TLauncherManager] after onMinecraftLaunch 
+2018-11-15 19:39:15,755 LoopedThread#7 [Launcher] Starting Minecraft latest-release...
+2018-11-15 19:39:15,756 LoopedThread#7 [Launcher] Launching in: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 19:39:15,764 LoopedThread#7 [Launcher] Processing post-launch actions. Assist launch: true
+2018-11-15 19:39:17,003 Thread-18 ===============================================================================================
+2018-11-15 19:39:17,005 Thread-18 > [19:39:17] [Client thread/INFO]: Setting user: AlecRuin
+2018-11-15 19:39:18,853 Thread-18 > [19:39:18] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-11-15 19:39:20,152 Thread-18 > [19:39:20] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-11-15 19:39:20,940 Thread-18 > [19:39:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-11-15 19:39:21,150 Thread-18 > [19:39:21] [Thread-2/INFO]: Initializing No Sound
+2018-11-15 19:39:21,152 Thread-18 > [19:39:21] [Thread-2/INFO]: (Silent Mode)
+2018-11-15 19:39:21,225 Thread-18 > [19:39:21] [Thread-2/INFO]: OpenAL initialized.
+2018-11-15 19:39:21,542 Thread-18 > [19:39:21] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-11-15 19:39:21,546 Thread-18 > [19:39:21] [Sound Library Loader/INFO]: Sound engine started
+2018-11-15 19:39:26,927 Thread-18 > [19:39:26] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-11-15 19:39:29,059 Thread-18 > [19:39:29] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-11-15 19:39:30,028 Thread-18 > [19:39:30] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-11-15 19:39:33,333 Thread-18 > [19:39:33] [Client thread/INFO]: Realms library version == 1.13.9
+2018-11-15 19:39:33,399 Thread-18 > [19:39:33] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-11-15 19:39:33,401 Thread-18 > [19:39:33] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+2018-11-15 19:42:36,202 Thread-18 > [19:42:36] [Client thread/INFO]: Stopping!
+2018-11-15 19:42:36,754 Thread-18 > [19:42:36] [Client thread/INFO]: SoundSystem shutting down...
+2018-11-15 19:42:36,961 Thread-18 > [19:42:36] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-11-15 19:42:36,984 Thread-18 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-11-15 19:42:37,054 Thread-18 Here I am!
+2018-11-15 19:42:37,088 Thread-18 [VersionManager] Refreshing versions locally...
+2018-11-15 19:42:37,105 Thread-18 [VersionManager] Versions has been refreshed (16 ms)
+2018-11-15 19:42:37,126 LoopedThread#7 [Launcher] Launcher exited.
+2018-11-15 19:42:37,127 Thread-18 [Launcher] Minecraft closed with exit code: 0
+2018-11-15 20:56:15,077 LoopedThread#7 [LoginForm] Catched a wait task from this listener, waiting...
+2018-11-15 20:56:15,090 LoopedThread#7 instancefor: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:56:15,108 LoopedThread#7 [TlauncherAuthenticator] Staring to authenticate: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:56:15,112 LoopedThread#7 [TlauncherAuthenticator] hasUsername: AlecRuin
+2018-11-15 20:56:15,116 LoopedThread#7 [TlauncherAuthenticator] hasPassword: false
+2018-11-15 20:56:15,117 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 20:56:15,118 LoopedThread#7 [TlauncherAuthenticator] Loggining in with token
+2018-11-15 20:56:15,821 LoopedThread#7 [TlauncherAuthenticator] Log in successful!
+2018-11-15 20:56:15,822 LoopedThread#7 [TlauncherAuthenticator] hasUUID: true
+2018-11-15 20:56:15,823 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 20:56:15,824 LoopedThread#7 [TlauncherAuthenticator] hasProfiles: false
+2018-11-15 20:56:15,825 LoopedThread#7 [TlauncherAuthenticator] hasProfile: false
+2018-11-15 20:56:15,826 LoopedThread#7 [TlauncherAuthenticator] hasProperties: true
+2018-11-15 20:56:15,896 LoopedThread#7 [LoginForm] Login was OK. Trying to launch now.
+2018-11-15 20:56:16,658 LoopedThread#7 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-11-15 20:56:16,659 LoopedThread#7 [Launcher] Running under TLauncher 2.48
+2018-11-15 20:56:16,659 LoopedThread#7 [Launcher] Current machine: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+2018-11-15 20:56:16,661 LoopedThread#7 [Launcher] Collecting info...
+2018-11-15 20:56:16,714 LoopedThread#7 [TLauncherManager] before clearLibrary 
+2018-11-15 20:56:16,735 LoopedThread#7 [TLauncherManager] written:  []
+2018-11-15 20:56:16,736 LoopedThread#7 [TLauncherManager] after clearLibrary 
+2018-11-15 20:56:16,737 LoopedThread#7 [Launcher] Force update: false
+2018-11-15 20:56:16,737 LoopedThread#7 [Launcher] Selected version: latest-release
+2018-11-15 20:56:16,738 LoopedThread#7 [Launcher] Selected account: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:56:16,759 LoopedThread#7 [Launcher] Version sync info: VersionSyncInfo{id='1.13.2',
+local=CompleteVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13.1', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.14', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.19', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@8cf2991, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@4dcda6ec, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-11-15 20:56:16,847 LoopedThread#7 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+2018-11-15 20:56:16,849 LoopedThread#7 [Launcher] Checking conditions...
+2018-11-15 20:56:16,850 LoopedThread#7 [Launcher] Comparing assets...
+2018-11-15 20:56:16,851 LoopedThread#7 [AssetsManager] Checking resources...
+2018-11-15 20:56:16,851 LoopedThread#7 [AssetsManager] Reading indexes from file C:\Users\Ruin\AppData\Roaming\.minecraft\assets\indexes\1.13.1.json
+2018-11-15 20:56:16,970 LoopedThread#7 [AssetsManager] Fast comparing: true
+2018-11-15 20:56:22,369 LoopedThread#7 [Launcher] Delta time to compare assets: 5518 ms.
+2018-11-15 20:56:25,219 LoopedThread#7 [VersionManager] Required for version 1.13.2: []
+2018-11-15 20:56:25,221 LoopedThread#7 [Modpack]  got container
+2018-11-15 20:56:25,272 LoopedThread#7 [Launcher] Unpacking natives...
+2018-11-15 20:56:25,321 LoopedThread#7 [Launcher] Constructing process...
+2018-11-15 20:56:25,322 LoopedThread#7 [Launcher] Constructing classpath...
+2018-11-15 20:56:25,329 LoopedThread#7 [Launcher] Getting Minecraft arguments...
+2018-11-15 20:56:25,332 LoopedThread#7 read servers from servers.dat []
+2018-11-15 20:56:25,347 LoopedThread#7 [InnerMinecraftServersImpl]  search removed servers
+2018-11-15 20:56:25,348 LoopedThread#7 [InnerMinecraftServersImpl]  prepare inner servers
+2018-11-15 20:56:25,365 LoopedThread#7 save servers to servers.dat []
+2018-11-15 20:56:25,367 LoopedThread#7 [Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe -Xmn128M -Xmx7274M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.14\brigadier-1.0.14.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\1.0.19\datafixerupper-1.0.19.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.13.9\realms-1.13.9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\1.13.2.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main --username AlecRuin --version 1.13.2 --gameDir C:\Users\Ruin\AppData\Roaming\.minecraft --assetsDir C:\Users\Ruin\AppData\Roaming\.minecraft\assets --assetIndex 1.13.1 --uuid bb97c27be93c11e88716002590a1379b --accessToken 6fbcb6bd-48c0-4493-af18-906895fa5691 --userType mojang --versionType release --width 925 --height 530
+2018-11-15 20:56:25,439 LoopedThread#7 [Launcher] Launching Minecraft...
+2018-11-15 20:56:25,440 LoopedThread#7 I'm hiding!
+2018-11-15 20:56:25,441 LoopedThread#7 [TLauncherManager] before onMinecraftLaunch 
+2018-11-15 20:56:25,442 LoopedThread#7 [TLauncherManager] read from  C:\Users\Ruin\AppData\Roaming\.minecraft\TempOptifineStore-1.0.json []
+2018-11-15 20:56:25,444 LoopedThread#7 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-11-15 20:56:25,446 LoopedThread#7 [TLauncherManager] after onMinecraftLaunch 
+2018-11-15 20:56:25,447 LoopedThread#7 [Launcher] Starting Minecraft latest-release...
+2018-11-15 20:56:25,447 LoopedThread#7 [Launcher] Launching in: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 20:56:25,501 LoopedThread#7 [Launcher] Processing post-launch actions. Assist launch: true
+2018-11-15 20:56:32,281 Thread-19 ===============================================================================================
+2018-11-15 20:56:32,283 Thread-19 > [20:56:32] [Client thread/INFO]: Setting user: AlecRuin
+2018-11-15 20:56:35,011 Thread-19 > [20:56:35] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-11-15 20:56:38,256 Thread-19 > [20:56:38] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-11-15 20:56:39,206 Thread-19 > [20:56:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-11-15 20:56:39,436 Thread-19 > [20:56:39] [Thread-2/INFO]: Initializing No Sound
+2018-11-15 20:56:39,438 Thread-19 > [20:56:39] [Thread-2/INFO]: (Silent Mode)
+2018-11-15 20:56:39,737 Thread-19 > [20:56:39] [Thread-2/INFO]: OpenAL initialized.
+2018-11-15 20:56:39,808 Thread-19 > [20:56:39] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-11-15 20:56:39,811 Thread-19 > [20:56:39] [Sound Library Loader/INFO]: Sound engine started
+2018-11-15 20:56:46,277 Thread-19 > [20:56:46] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-11-15 20:56:48,982 Thread-19 > [20:56:48] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-11-15 20:56:50,225 Thread-19 > [20:56:50] [Client thread/INFO]: Stopping!
+2018-11-15 20:56:50,941 Thread-19 > [20:56:50] [Client thread/INFO]: SoundSystem shutting down...
+2018-11-15 20:56:51,147 Thread-19 > [20:56:51] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-11-15 20:56:51,285 Thread-19 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-11-15 20:56:51,462 Thread-19 Here I am!
+2018-11-15 20:56:51,483 Thread-19 [VersionManager] Refreshing versions locally...
+2018-11-15 20:56:51,489 Thread-19 [VersionManager] Versions has been refreshed (5 ms)
+2018-11-15 20:56:51,523 LoopedThread#7 [Launcher] Launcher exited.
+2018-11-15 20:56:51,524 Thread-19 [Launcher] Minecraft closed with exit code: 0
+2018-11-15 20:57:16,540 LoopedThread#7 [LoginForm] Catched a wait task from this listener, waiting...
+2018-11-15 20:57:16,541 LoopedThread#7 instancefor: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:57:16,558 LoopedThread#7 [TlauncherAuthenticator] Staring to authenticate: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:57:16,562 LoopedThread#7 [TlauncherAuthenticator] hasUsername: AlecRuin
+2018-11-15 20:57:16,563 LoopedThread#7 [TlauncherAuthenticator] hasPassword: false
+2018-11-15 20:57:16,564 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 20:57:16,565 LoopedThread#7 [TlauncherAuthenticator] Loggining in with token
+2018-11-15 20:57:16,826 LoopedThread#7 [TlauncherAuthenticator] Log in successful!
+2018-11-15 20:57:16,827 LoopedThread#7 [TlauncherAuthenticator] hasUUID: true
+2018-11-15 20:57:16,827 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 20:57:16,828 LoopedThread#7 [TlauncherAuthenticator] hasProfiles: false
+2018-11-15 20:57:16,829 LoopedThread#7 [TlauncherAuthenticator] hasProfile: false
+2018-11-15 20:57:16,830 LoopedThread#7 [TlauncherAuthenticator] hasProperties: true
+2018-11-15 20:57:16,839 LoopedThread#7 [LoginForm] Login was OK. Trying to launch now.
+2018-11-15 20:57:17,134 LoopedThread#7 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-11-15 20:57:17,135 LoopedThread#7 [Launcher] Running under TLauncher 2.48
+2018-11-15 20:57:17,135 LoopedThread#7 [Launcher] Current machine: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+2018-11-15 20:57:17,137 LoopedThread#7 [Launcher] Collecting info...
+2018-11-15 20:57:17,149 LoopedThread#7 [TLauncherManager] before clearLibrary 
+2018-11-15 20:57:17,152 LoopedThread#7 [TLauncherManager] written:  []
+2018-11-15 20:57:17,153 LoopedThread#7 [TLauncherManager] after clearLibrary 
+2018-11-15 20:57:17,154 LoopedThread#7 [Launcher] Force update: false
+2018-11-15 20:57:17,155 LoopedThread#7 [Launcher] Selected version: 1.8
+2018-11-15 20:57:17,156 LoopedThread#7 [Launcher] Selected account: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 20:57:17,158 LoopedThread#7 [Launcher] Version sync info: VersionSyncInfo{id='1.8',
+local=null,
+remote=PartialVersion{id='1.8', time=Wed Aug 29 06:54:42 CST 2018, release=Tue Sep 02 02:24:35 CST 2014, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20}, isInstalled=false, hasRemote=true, isUpToDate=false}
+2018-11-15 20:57:17,164 LoopedThread#7 [REPO][EMPTY_REP] Selecting relevant path...
+2018-11-15 20:57:17,165 LoopedThread#7 [REPO][EMPTY_REP] Attempt #1; timeout: 5000 ms; url: 
+2018-11-15 20:57:17,440 LoopedThread#7 [REPO][EMPTY_REP] Success: Reached the repo in 274 ms.
+2018-11-15 20:57:17,462 LoopedThread#7 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+2018-11-15 20:57:17,465 LoopedThread#7 [Launcher] Checking conditions...
+2018-11-15 20:57:17,466 LoopedThread#7 [Launcher] Comparing assets...
+2018-11-15 20:57:17,467 LoopedThread#7 [AssetsManager] Checking resources...
+2018-11-15 20:57:17,468 LoopedThread#7 [AssetsManager] Reading indexes from file C:\Users\Ruin\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+2018-11-15 20:57:17,470 LoopedThread#7 [AssetsManager] Cannot read local resource files list for index: 1.8
+java.io.FileNotFoundException: C:\Users\Ruin\AppData\Roaming\.minecraft\assets\indexes\1.8.json (The system cannot find the file specified)
+at java.io.FileInputStream.open0(Native Method)
+at java.io.FileInputStream.open(Unknown Source)
+at java.io.FileInputStream.<init>(Unknown Source)
+at org.tlauncher.util.FileUtil.readFile(FileUtil.java:166)
+at org.tlauncher.util.FileUtil.readFile(FileUtil.java:170)
+at org.tlauncher.tlauncher.managers.AssetsManager.getLocalResourceFilesList(AssetsManager.java:97)
+at org.tlauncher.tlauncher.managers.AssetsManager.getResourceFiles(AssetsManager.java:73)
+at org.tlauncher.tlauncher.managers.AssetsManager.checkResources(AssetsManager.java:170)
+at org.tlauncher.tlauncher.managers.AssetsManager.checkResources(AssetsManager.java:188)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.compareAssets(MinecraftLauncher.java:1108)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.downloadResources(MinecraftLauncher.java:519)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:235)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:411)
+... and 4 more
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:16)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:261)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:56)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:477)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:275)
+
+2018-11-15 20:57:17,510 LoopedThread#7 [AssetsManager] Reading from repository...
+2018-11-15 20:57:17,596 LoopedThread#7 [AssetsManager] Fast comparing: true
+2018-11-15 20:57:17,707 LoopedThread#7 [Launcher] Delta time to compare assets: 240 ms.
+2018-11-15 20:57:17,740 LoopedThread#7 [VersionManager] Required for version 1.8: [LibraryDownloadable{path='https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.1\lwjgl-platform-2.9.1-natives-windows.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/com/mojang/realms/1.6.1/realms-1.6.1.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.6.1\realms-1.6.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-64.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch-platform\6.5\twitch-platform-6.5-natives-windows-64.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch-external-platform\4.5\twitch-external-platform-4.5-natives-windows-64.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\netty\1.6\netty-1.6.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}, LibraryDownloadable{path='https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5-natives-windows.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@18da5543; handlers=[]; error=null;}]
+2018-11-15 20:57:17,889 LoopedThread#7 [VersionManager] Jar for 1.8: Downloadable{path='https://launcher.mojang.com/v1/objects/d722504db9de2b47f46cc592b8528446272ae648/client.jar'; repo=empty_rep; destinations=C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.8\1.8.jar,[C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.8\1.8.jar.bak]; force=false; fast=false; locked=false; container=null; handlers=[]; error=null;}
+2018-11-15 20:57:17,900 LoopedThread#7 [Modpack]  got container
+2018-11-15 20:57:17,924 MD#3 [Downloader2] Files in queue 182
+2018-11-15 20:57:17,926 MD#3 [Downloader2] Starting download 182 files...
+2018-11-15 20:57:18,242 DT#1#28 [D#1] >  http://resources.download.minecraft.net/99/99d9280970ffd4a42b43f377f8d3e361d7f59bb7 
+2018-11-15 20:57:18,243 DT#3#30 [D#3] >  http://resources.download.minecraft.net/28/2862fb39b282f3ae2bbee03ab91c8941b403494c 
+2018-11-15 20:57:18,245 DT#2#29 [D#2] >  http://resources.download.minecraft.net/90/905709a78b838e70d8a1e7ca2cd76cedb41712f8 
+2018-11-15 20:57:18,542 DT#2#29 [D#2] >  http://resources.download.minecraft.net/a1/a1d8cf2a5a4f536b15bb6481c7f0203b7dd1c58b 
+2018-11-15 20:57:18,563 DT#3#30 [D#3] >  http://resources.download.minecraft.net/a1/a1ee4b8b62d984d924e14f40855c3797a4c5c18a 
+2018-11-15 20:57:18,583 DT#1#28 [D#1] >  http://resources.download.minecraft.net/27/2740cd3806cec3b8c8895e31dd6a09e7925d1415 
+2018-11-15 20:57:18,640 DT#3#30 [D#3] >  http://resources.download.minecraft.net/2e/2e3e328276f15e77119ade2529e7beafb0d69fd6 
+2018-11-15 20:57:18,670 DT#1#28 [D#1] >  http://resources.download.minecraft.net/a7/a742af8f9e453973b805ed6fff21a8bf9452bd9f 
+2018-11-15 20:57:18,758 DT#1#28 [D#1] >  http://resources.download.minecraft.net/d4/d41daacff479a90aca8b8ecff1f40dbb1d144559 
+2018-11-15 20:57:18,781 DT#3#30 [D#3] >  http://resources.download.minecraft.net/51/515d2dc1517b1907c72a79e758ef995a3b54aab1 
+2018-11-15 20:57:18,801 DT#2#29 [D#2] >  http://resources.download.minecraft.net/7c/7c272cf1c8f3dcd0428ab75087890c8aa290812f 
+2018-11-15 20:57:18,868 DT#1#28 [D#1] >  http://resources.download.minecraft.net/a7/a7d757b683fe02a372025b3ad592241b73d0c8f5 
+2018-11-15 20:57:18,897 DT#3#30 [D#3] >  http://resources.download.minecraft.net/1f/1f3a90b891029d4a743f7f87e479db0b43740845 
+2018-11-15 20:57:18,951 DT#1#28 [D#1] >  http://resources.download.minecraft.net/de/dedc1cc7ded0d917b0fa2a34ad6b7843c5ffa46a 
+2018-11-15 20:57:18,961 DT#3#30 [D#3] >  http://resources.download.minecraft.net/b5/b5a91fefb72e3664024e87ae64ef19977fe09003 
+2018-11-15 20:57:18,993 DT#2#29 [D#2] >  http://resources.download.minecraft.net/65/655aeb17af37eed92c8fcf8b1c22b173eb76b561 
+2018-11-15 20:57:19,037 DT#3#30 [D#3] >  http://resources.download.minecraft.net/96/965fbbc622abd91585b1b5d40b045e384c5f1613 
+2018-11-15 20:57:19,042 DT#1#28 [D#1] >  http://resources.download.minecraft.net/2e/2ecf8694343c62a0d0e3ca3d9dc130067adf1c4d 
+2018-11-15 20:57:19,100 DT#3#30 [D#3] >  http://resources.download.minecraft.net/38/38394f86a2001cea212b6d06903218a71b326efb 
+2018-11-15 20:57:19,126 DT#1#28 [D#1] >  http://resources.download.minecraft.net/ce/ced868873c0873349fc4274255a553a073a1d530 
+2018-11-15 20:57:19,164 DT#3#30 [D#3] >  http://resources.download.minecraft.net/16/16f20c44b1662917db565be399caf1d68e020430 
+2018-11-15 20:57:19,203 DT#1#28 [D#1] >  http://resources.download.minecraft.net/4c/4cdd8fc380e85409fd94b93abdcad077d75ec58f 
+2018-11-15 20:57:19,251 DT#3#30 [D#3] >  http://resources.download.minecraft.net/68/685f29bcdcc62c0c58f4d137d30fcc40123411f4 
+2018-11-15 20:57:19,316 DT#1#28 [D#1] >  http://resources.download.minecraft.net/f5/f5571f58e5ee9737b6de97a70ab6f8cc0b4172bb 
+2018-11-15 20:57:19,319 DT#2#29 [D#2] >  http://resources.download.minecraft.net/5f/5f094aa93e1d5b066c0b3c567380c22b1826ac04 
+2018-11-15 20:57:19,323 DT#3#30 [D#3] >  http://resources.download.minecraft.net/4b/4b6295b0de070dea8cb3a45d7ff781bf0ca530d2 
+2018-11-15 20:57:19,383 DT#2#29 [D#2] >  http://resources.download.minecraft.net/6f/6f17ad81a2a86f2152f50e4f6b89f67c097b7471 
+2018-11-15 20:57:19,398 DT#3#30 [D#3] >  http://resources.download.minecraft.net/26/2667f5bc36427218608c3fc7b1af48b047ba5b8d 
+2018-11-15 20:57:19,417 DT#1#28 [D#1] >  http://resources.download.minecraft.net/e3/e3ee71d4c6ff01dfe2fa466cfc958433316e0683 
+2018-11-15 20:57:19,459 DT#2#29 [D#2] >  http://resources.download.minecraft.net/82/827dd07c2830be33cab42f36b0a1cb0ef2a2f771 
+2018-11-15 20:57:19,480 DT#3#30 [D#3] >  http://resources.download.minecraft.net/a4/a41c61b14225a133b664dd584c94d47ca86f72e2 
+2018-11-15 20:57:19,517 DT#2#29 [D#2] >  http://resources.download.minecraft.net/3b/3b182a8bcf8d911bf0d8d5b6e963855c30a12897 
+2018-11-15 20:57:19,561 DT#3#30 [D#3] >  http://resources.download.minecraft.net/6b/6bd91cc519996920a605b5591d65a52eefdf0fa9 
+2018-11-15 20:57:19,585 DT#2#29 [D#2] >  http://resources.download.minecraft.net/eb/eba6a289fd6815c89c8c35277c6775723621cfd7 
+2018-11-15 20:57:19,590 DT#1#28 [D#1] >  http://resources.download.minecraft.net/5e/5e8d8230ac8db17d48ea011fdd185d502af3fbd9 
+2018-11-15 20:57:19,631 DT#3#30 [D#3] >  http://resources.download.minecraft.net/af/af958233a71ccf73edc89e3b431a7a10e16cc1ac 
+2018-11-15 20:57:19,651 DT#1#28 [D#1] >  http://resources.download.minecraft.net/20/209e71ba58feb5061d813724eac2b06a55b3e066 
+2018-11-15 20:57:19,704 DT#3#30 [D#3] >  http://resources.download.minecraft.net/ad/ad9b743a2579f0bcbc09acbbbdb6741f250b81bb 
+2018-11-15 20:57:19,725 DT#1#28 [D#1] >  http://resources.download.minecraft.net/4d/4dd44b7458e826804c2c229baf535a732b9e68c8 
+2018-11-15 20:57:19,790 DT#2#29 [D#2] >  http://resources.download.minecraft.net/8b/8be97755d534dde3ee1111e3b39c6b5b67798373 
+2018-11-15 20:57:19,809 DT#3#30 [D#3] >  http://resources.download.minecraft.net/e5/e58d2a97afb75d81c14839c7aed9a0f39cc97930 
+2018-11-15 20:57:19,811 DT#1#28 [D#1] >  http://resources.download.minecraft.net/fe/fee4abfa2e4e8dafd83db67c33a07d9c23ed2ea3 
+2018-11-15 20:57:19,886 DT#3#30 [D#3] >  http://resources.download.minecraft.net/ac/ac61acec46bb72c4e11b3fbe8317bd593d3c2120 
+2018-11-15 20:57:19,902 DT#2#29 [D#2] >  http://resources.download.minecraft.net/97/974c91d46902f201f5b99826037f7c3891d5f6fd 
+2018-11-15 20:57:19,975 DT#1#28 [D#1] >  http://resources.download.minecraft.net/df/dfb8059176413255e670b9cc82ad1f62ab5bd057 
+2018-11-15 20:57:19,977 DT#3#30 [D#3] >  http://resources.download.minecraft.net/aa/aa41f15ebc5b2bc8dd110e3dbbfa8646e873a2b9 
+2018-11-15 20:57:20,028 DT#2#29 [D#2] >  http://resources.download.minecraft.net/1c/1cd7ce283302873d4719c35292c0bfee9ff88d12 
+2018-11-15 20:57:20,041 DT#3#30 [D#3] >  http://resources.download.minecraft.net/81/81b2c1409d080d3a0f11296b1e497dd4b01c77ca 
+2018-11-15 20:57:20,091 DT#1#28 [D#1] >  http://resources.download.minecraft.net/a7/a7b7e23172e3d8128cf1bf2140254bd71273e5b7 
+2018-11-15 20:57:20,113 DT#3#30 [D#3] >  http://resources.download.minecraft.net/e1/e17ea8659cfab4dbc479038c3f599073981e48a9 
+2018-11-15 20:57:20,118 DT#2#29 [D#2] >  http://resources.download.minecraft.net/0c/0ca3e647521ee34e6fae49086e7cc192a148bca6 
+2018-11-15 20:57:20,178 DT#1#28 [D#1] >  http://resources.download.minecraft.net/e0/e0e3a6eeb73178da894c84eb9d495128ab463a0d 
+2018-11-15 20:57:20,181 DT#3#30 [D#3] >  http://resources.download.minecraft.net/78/78e5d74081d605d52272f29c7d958b6584a62116 
+2018-11-15 20:57:20,220 DT#2#29 [D#2] >  http://resources.download.minecraft.net/62/621cf443ebb4f183056625337a83c989f46c1822 
+2018-11-15 20:57:20,244 DT#3#30 [D#3] >  http://resources.download.minecraft.net/2e/2e62679eb9407568fbf5a1bb9ba04a765aa2eb0e 
+2018-11-15 20:57:20,284 DT#1#28 [D#1] >  http://resources.download.minecraft.net/b5/b556d8156f1050d701ffc4f85bdabc3577e572f9 
+2018-11-15 20:57:20,312 DT#2#29 [D#2] >  http://resources.download.minecraft.net/e1/e1cad7ce1c9feb8b7f56954e7f6f1d846de12c47 
+2018-11-15 20:57:20,329 DT#3#30 [D#3] >  http://resources.download.minecraft.net/72/72c87ee9656538c3908751d02c84b9bf4d032978 
+2018-11-15 20:57:20,353 DT#1#28 [D#1] >  http://resources.download.minecraft.net/3e/3e1023b16e830abb4622f7a14f0526ce755fb557 
+2018-11-15 20:57:20,412 DT#3#30 [D#3] >  http://resources.download.minecraft.net/21/219ff52e6df85fc4a04cda68aeecffde934daeda 
+2018-11-15 20:57:20,427 DT#1#28 [D#1] >  http://resources.download.minecraft.net/aa/aaf1358fc98f0d7ddb3f0be043f6e2627a382f22 
+2018-11-15 20:57:20,473 DT#2#29 [D#2] >  http://resources.download.minecraft.net/fc/fc70f364f2b5a1777255020444b74d25e28ef12d 
+2018-11-15 20:57:20,553 DT#3#30 [D#3] >  http://resources.download.minecraft.net/0d/0d4d1008e189d336b078f0fc97bb5a7a378a1966 
+2018-11-15 20:57:20,562 DT#1#28 [D#1] >  http://resources.download.minecraft.net/6f/6fe562cd67282ce7a452190b722cbe3fb5b6344c 
+2018-11-15 20:57:20,653 DT#3#30 [D#3] >  http://resources.download.minecraft.net/10/102b886329cc6f8376684d79e0275ec93de101ce 
+2018-11-15 20:57:20,664 DT#1#28 [D#1] >  http://resources.download.minecraft.net/85/85cf7fc03f0f4f67521fef89adee58471b72a81a 
+2018-11-15 20:57:20,696 DT#2#29 [D#2] >  http://resources.download.minecraft.net/10/10a54fc66c8f479bb65c8d39c3b62265ac82e742 
+2018-11-15 20:57:20,736 DT#3#30 [D#3] >  http://resources.download.minecraft.net/ef/ef0f55dcbcdfc79415c2f178aea68cded7917c33 
+2018-11-15 20:57:20,751 DT#1#28 [D#1] >  http://resources.download.minecraft.net/ee/ee4232cbe10c23b9aff88e9134dc0ae15a449de2 
+2018-11-15 20:57:20,804 DT#3#30 [D#3] >  http://resources.download.minecraft.net/10/109ff111fef689c7435a612cee9becf47a7c701d 
+2018-11-15 20:57:20,819 DT#1#28 [D#1] >  http://resources.download.minecraft.net/73/739a68f417161fed73cf778702977f5d70eb96f7 
+2018-11-15 20:57:20,867 DT#2#29 [D#2] >  http://resources.download.minecraft.net/7b/7b4a8814ce48199ded6ae2b6fdd8b3bb8bfc5b49 
+2018-11-15 20:57:20,878 DT#1#28 [D#1] >  http://resources.download.minecraft.net/1d/1d37a6f67db63ee15ec19f0426a914882bc9aadc 
+2018-11-15 20:57:20,900 DT#3#30 [D#3] >  http://resources.download.minecraft.net/fa/faf036a00abc60f858e841d04b9cbf96be4d804e 
+2018-11-15 20:57:20,981 DT#2#29 [D#2] >  http://resources.download.minecraft.net/35/35aeb4279d6e6dfe134d2f385b4e6c7b8a06e7d4 
+2018-11-15 20:57:20,983 DT#1#28 [D#1] >  http://resources.download.minecraft.net/9d/9dc05d0d7c2bb7e6e73a1d8e2bc50e48746a6883 
+2018-11-15 20:57:20,986 DT#3#30 [D#3] >  http://resources.download.minecraft.net/a5/a58199be09233eedda669ad06bef1fb353b464ac 
+2018-11-15 20:57:21,061 DT#2#29 [D#2] >  http://resources.download.minecraft.net/fd/fd264fd12e1b982d22954163a12b35825ae6a87a 
+2018-11-15 20:57:21,085 DT#3#30 [D#3] >  http://resources.download.minecraft.net/37/37cba9315ce8202c834a94bdc92bed0879ed2d07 
+2018-11-15 20:57:21,135 DT#1#28 [D#1] >  http://resources.download.minecraft.net/00/0027d4edd626883a618bc464df2ce54855bf650d 
+2018-11-15 20:57:21,138 DT#2#29 [D#2] >  http://resources.download.minecraft.net/52/52aaa08aaa960c016fa38c1fdfc68dc446cb8f3e 
+2018-11-15 20:57:21,180 DT#3#30 [D#3] >  http://resources.download.minecraft.net/40/40b34f323a847f862e8f779ab84a80a3336a7bd8 
+2018-11-15 20:57:21,197 DT#2#29 [D#2] >  http://resources.download.minecraft.net/7c/7cfcba8a3f4a60d37a828cfff5aa3978bd28f19b 
+2018-11-15 20:57:21,215 DT#1#28 [D#1] >  http://resources.download.minecraft.net/ba/ba58e1b6c8cc814a210db268d3e59a06b7ac62be 
+2018-11-15 20:57:21,293 DT#2#29 [D#2] >  http://resources.download.minecraft.net/f9/f9e1e61d35c4b8583a8d32bb9854f02f3a7bb7a8 
+2018-11-15 20:57:21,295 DT#3#30 [D#3] >  http://resources.download.minecraft.net/b7/b7b754f6be6dcfcf1399c95aae35e44ffb9d66ad 
+2018-11-15 20:57:21,320 DT#1#28 [D#1] >  http://resources.download.minecraft.net/b4/b4e155c85e53f55354f5b51e7f7a35b11bd0a79c 
+2018-11-15 20:57:21,404 DT#2#29 [D#2] >  http://resources.download.minecraft.net/42/42394caf96f31a1dd2b262ff52ee0a5ee3cfbd83 
+2018-11-15 20:57:21,407 DT#3#30 [D#3] >  http://resources.download.minecraft.net/e2/e2c8f26c91005a795c08344d601b10c84936e89d 
+2018-11-15 20:57:21,489 DT#1#28 [D#1] >  http://resources.download.minecraft.net/d8/d8db0eb0c818256908e98efb1a681bc89ee19c04 
+2018-11-15 20:57:21,505 DT#2#29 [D#2] >  http://resources.download.minecraft.net/0a/0a3f0c382b1813fb42b8374dc9ee1bc5c19f797d 
+2018-11-15 20:57:21,538 DT#3#30 [D#3] >  http://resources.download.minecraft.net/26/26ad90a5dc52f95e4802ae30422d2fb20edf5eba 
+2018-11-15 20:57:21,567 DT#2#29 [D#2] >  http://resources.download.minecraft.net/70/7035158dd5e4b632403af3697eb8e78908b17ba2 
+2018-11-15 20:57:21,636 DT#1#28 [D#1] >  http://resources.download.minecraft.net/7e/7ef69f5a43362e672b7a2c0b1ea4fca0d5520003 
+2018-11-15 20:57:21,640 DT#2#29 [D#2] >  http://resources.download.minecraft.net/3e/3ee4f600273ed1aba4e4583c9b6621e8a0105f9a 
+2018-11-15 20:57:21,657 DT#3#30 [D#3] >  http://resources.download.minecraft.net/5b/5b933ea21cd6e7bccefb023df4f6efc742468845 
+2018-11-15 20:57:21,709 DT#1#28 [D#1] >  http://resources.download.minecraft.net/95/956800973e1189fb76b895a8f3ae61af71606661 
+2018-11-15 20:57:21,766 DT#2#29 [D#2] >  http://resources.download.minecraft.net/b4/b4d318fb952a8b976469ac3c09a4ab869d0b8e13 
+2018-11-15 20:57:21,768 DT#3#30 [D#3] >  http://resources.download.minecraft.net/b0/b0063e6fcabaab3428bd961204a94ca062110186 
+2018-11-15 20:57:21,783 DT#1#28 [D#1] >  http://resources.download.minecraft.net/95/959491c90f33bba61156640bb1c31cbe075f5b41 
+2018-11-15 20:57:21,863 DT#1#28 [D#1] >  http://resources.download.minecraft.net/33/330ad5dcdbc9db526c65ee624969aa65bd1cc149 
+2018-11-15 20:57:21,873 DT#3#30 [D#3] >  http://resources.download.minecraft.net/e9/e9b1b7eacecdce2abbb904c88b3741b9fb281f7a 
+2018-11-15 20:57:21,875 DT#2#29 [D#2] >  http://resources.download.minecraft.net/f1/f1bc2dfa0c992be3e7480229c45830293ee19d08 
+2018-11-15 20:57:21,926 DT#1#28 [D#1] >  http://resources.download.minecraft.net/e8/e89ef25ae1fa8c571a001b686d1f4eeda25e5cde 
+2018-11-15 20:57:21,939 DT#3#30 [D#3] >  http://resources.download.minecraft.net/e9/e952e5c34abdd0147fa5bb20c7fd4aa14353fd90 
+2018-11-15 20:57:22,006 DT#1#28 [D#1] >  http://resources.download.minecraft.net/87/8745e10d42d33d35e51af15362dada4cd71f385f 
+2018-11-15 20:57:22,011 DT#3#30 [D#3] >  http://resources.download.minecraft.net/05/05c584aa9c2b0af08af0ec463541204ce63a4670 
+2018-11-15 20:57:22,072 DT#1#28 [D#1] >  http://resources.download.minecraft.net/7b/7b243164dfca23d30a01763a9f26ab1863932ac2 
+2018-11-15 20:57:22,076 DT#3#30 [D#3] >  http://resources.download.minecraft.net/1c/1c839a4420005d136b55810e2dacf47eb588e2fa 
+2018-11-15 20:57:22,153 DT#3#30 [D#3] >  http://resources.download.minecraft.net/17/176c14c2ce03e7a57725f7ea973d485b2888983a 
+2018-11-15 20:57:22,181 DT#1#28 [D#1] >  http://resources.download.minecraft.net/37/37821cab823859768abfebb8264953ee7e069c17 
+2018-11-15 20:57:22,240 DT#3#30 [D#3] >  http://resources.download.minecraft.net/08/08e555782cb2785b24e08a417a5e58aa08bd0695 
+2018-11-15 20:57:22,247 DT#1#28 [D#1] >  http://resources.download.minecraft.net/68/68a625da50f12a170fb16f60f36ef31a8ff07f1f 
+2018-11-15 20:57:22,306 DT#3#30 [D#3] >  http://resources.download.minecraft.net/a2/a23bceb1d6e6412dafbd5e49a1c05918854bdfc2 
+2018-11-15 20:57:22,333 DT#1#28 [D#1] >  http://resources.download.minecraft.net/5e/5e06ca070067486427a3167ade2ffe01623e5591 
+2018-11-15 20:57:22,384 DT#3#30 [D#3] >  http://resources.download.minecraft.net/09/0980bf808e738eeac691559f771e68bbd23c6d98 
+2018-11-15 20:57:22,427 DT#1#28 [D#1] >  http://resources.download.minecraft.net/a2/a20c4251d6a7bf003f9e16654c70a2a5765819fd 
+2018-11-15 20:57:22,462 DT#3#30 [D#3] >  http://resources.download.minecraft.net/b2/b2983049aa338c2c1d707c426e54505cf643bea0 
+2018-11-15 20:57:22,520 DT#1#28 [D#1] >  http://resources.download.minecraft.net/d6/d68bae1949299ccd8297aaa423dd12e041e83773 
+2018-11-15 20:57:22,524 DT#3#30 [D#3] >  http://resources.download.minecraft.net/46/46f224c7d94773514dce4a759206288e3ca2c5da 
+2018-11-15 20:57:22,581 DT#1#28 [D#1] >  http://resources.download.minecraft.net/75/757435c189f31d5c8db94a4adbc56c70a8998204 
+2018-11-15 20:57:22,585 DT#3#30 [D#3] >  http://resources.download.minecraft.net/00/0045afb6a30c4beb3793b116a025111a411a14c9 
+2018-11-15 20:57:22,651 DT#1#28 [D#1] >  http://resources.download.minecraft.net/e2/e28f348f59a396f8e23079e52e6dc1caa02a0868 
+2018-11-15 20:57:22,673 DT#3#30 [D#3] >  http://resources.download.minecraft.net/fa/fa68dfda0324e8ee58d40df5e9e7272f0d59c47a 
+2018-11-15 20:57:22,714 DT#1#28 [D#1] >  http://resources.download.minecraft.net/de/de4ac38571122ab44f0e571aad2b58486c0e56f7 
+2018-11-15 20:57:22,779 DT#1#28 [D#1] >  http://resources.download.minecraft.net/a7/a791d82f586d7b4f698bb7d47f07d4f7f002ce73 
+2018-11-15 20:57:22,798 DT#3#30 [D#3] >  http://resources.download.minecraft.net/94/94ee6c08de62aa80f920b45329ba14d12f345f70 
+2018-11-15 20:57:22,845 DT#2#29 [D#2] >  http://resources.download.minecraft.net/e3/e36314cb77ccca5fce96fa6b28c61d4efe859f0a 
+2018-11-15 20:57:22,856 DT#1#28 [D#1] >  http://resources.download.minecraft.net/4a/4a2369e297138041d8a060e4124084ed7bea6a25 
+2018-11-15 20:57:22,962 DT#1#28 [D#1] >  http://resources.download.minecraft.net/1d/1d6bad6f31c6797391e8c127c9b469be01ee9292 
+2018-11-15 20:57:22,964 DT#3#30 [D#3] >  http://resources.download.minecraft.net/5a/5add3584b916929c35e638e232b38a7f0b6bf583 
+2018-11-15 20:57:22,966 DT#2#29 [D#2] >  http://resources.download.minecraft.net/ec/ec9df689ff3737cdd03762ceaf934cba703b05cc 
+2018-11-15 20:57:23,029 DT#3#30 [D#3] >  https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar 
+2018-11-15 20:57:23,049 DT#1#28 [D#1] >  http://resources.download.minecraft.net/35/35fd4611f6947b4142d76d30d1f36a994df59b10 
+2018-11-15 20:57:23,117 DT#1#28 [D#1] >  http://resources.download.minecraft.net/87/87d4c7476672d23170c057c95a80ec1cba06a48a 
+2018-11-15 20:57:23,119 DT#2#29 [D#2] >  http://resources.download.minecraft.net/15/15eccc77f642260b1d1904593306f20305147702 
+2018-11-15 20:57:23,207 DT#2#29 [D#2] >  http://resources.download.minecraft.net/03/03f31164d234f10a3230611656332f1756e570a9 
+2018-11-15 20:57:23,247 DT#1#28 [D#1] >  http://resources.download.minecraft.net/6d/6d689ac64aa096ba17a52ae6e6e0bbe5fa5d4a9b 
+2018-11-15 20:57:23,304 DT#2#29 [D#2] >  http://resources.download.minecraft.net/01/010f1fc88f36eed57e8ddccc74a25948be22d27c 
+2018-11-15 20:57:23,350 DT#1#28 [D#1] >  http://resources.download.minecraft.net/50/50ccb540403817f222b32c9da492368054b6e958 
+2018-11-15 20:57:23,363 DT#2#29 [D#2] >  http://resources.download.minecraft.net/14/14cfb2f24e7d91dbc22a2a0e3b880d9829320243 
+2018-11-15 20:57:23,447 DT#1#28 [D#1] >  http://resources.download.minecraft.net/fe/fe8073cc2c07af629577017d78aeb2cc3c231dc8 
+2018-11-15 20:57:23,454 DT#2#29 [D#2] >  http://resources.download.minecraft.net/9f/9f8f2bcb36ae3fe3c01bea418f33de3da2a6cc50 
+2018-11-15 20:57:23,547 DT#2#29 [D#2] >  http://resources.download.minecraft.net/e3/e31936d5f6de9dbf40feeac734adfccf8d876e07 
+2018-11-15 20:57:23,581 DT#1#28 [D#1] >  https://libraries.minecraft.net/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar 
+2018-11-15 20:57:23,624 DT#2#29 [D#2] >  http://resources.download.minecraft.net/a6/a6b7b891e59d0db38c823ab753a5ac8796bd1d65 
+2018-11-15 20:57:23,714 DT#2#29 [D#2] >  http://resources.download.minecraft.net/be/be945eb046d29e0215a0f35ef8973478eb2fc1d3 
+2018-11-15 20:57:23,822 DT#2#29 [D#2] >  http://resources.download.minecraft.net/16/1607e086d96a856139e2a0f2d0b5ff3ffa4b6d4e 
+2018-11-15 20:57:23,883 DT#2#29 [D#2] >  http://resources.download.minecraft.net/7e/7ebae0281abcbd0d341d728756bec9d6ec1467ee 
+2018-11-15 20:57:23,960 DT#2#29 [D#2] >  http://resources.download.minecraft.net/64/64f5643da27da4218b87fae8352cbd65e98a6494 
+2018-11-15 20:57:24,040 DT#2#29 [D#2] >  http://resources.download.minecraft.net/12/1278c9b0ee43443baf60f289a8236d503c4e126a 
+2018-11-15 20:57:24,122 DT#2#29 [D#2] >  http://resources.download.minecraft.net/99/99b470341f0ae1a62c7d50dcaede34a907db7af6 
+2018-11-15 20:57:24,210 DT#2#29 [D#2] >  http://resources.download.minecraft.net/bb/bbaf3f7aad0587fcf2797119eef34bac069fe411 
+2018-11-15 20:57:24,242 DT#3#30 [D#3] >  https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar 
+2018-11-15 20:57:24,294 DT#2#29 [D#2] >  http://resources.download.minecraft.net/ca/cad8f85a230783f016f4a594528816be45846331 
+2018-11-15 20:57:24,407 DT#1#28 [D#1] >  https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar 
+2018-11-15 20:57:24,426 DT#2#29 [D#2] >  http://resources.download.minecraft.net/a2/a2a737070bd9d9fb62b7b849479d9ec49c51c3eb 
+2018-11-15 20:57:24,532 DT#3#30 [D#3] >  https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar 
+2018-11-15 20:57:24,560 DT#2#29 [D#2] >  http://resources.download.minecraft.net/a8/a8e68a927a29d9450d9d8a16090454c4eacc3852 
+2018-11-15 20:57:24,609 DT#3#30 [D#3] >  https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar 
+2018-11-15 20:57:24,649 DT#2#29 [D#2] >  http://resources.download.minecraft.net/e2/e2a0524a1829a80ecb30c602d5ec86a398b0c30e 
+2018-11-15 20:57:24,692 DT#1#28 [D#1] >  https://libraries.minecraft.net/com/mojang/realms/1.6.1/realms-1.6.1.jar 
+2018-11-15 20:57:24,729 DT#3#30 [D#3] >  https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar 
+2018-11-15 20:57:24,731 DT#2#29 [D#2] >  http://resources.download.minecraft.net/15/15a1256703dc94ce8ebf855e0b8dc6e235aa8615 
+2018-11-15 20:57:24,828 DT#2#29 [D#2] >  http://resources.download.minecraft.net/94/94190ac744a68cd61cd70ad923033e943ecc050e 
+2018-11-15 20:57:24,849 DT#1#28 [D#1] >  https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar 
+2018-11-15 20:57:24,888 DT#3#30 [D#3] >  https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar 
+2018-11-15 20:57:24,918 DT#2#29 [D#2] >  http://resources.download.minecraft.net/e6/e69a01032d22396b1f6ca548e0edb162e58a818d 
+2018-11-15 20:57:24,990 DT#2#29 [D#2] >  http://resources.download.minecraft.net/f2/f2164cdd0b3191fdafbea4f97b99a22046aeedf4 
+2018-11-15 20:57:25,026 DT#1#28 [D#1] >  https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar 
+2018-11-15 20:57:25,063 DT#2#29 [Launcher] Assets have been downloaded
+2018-11-15 20:57:25,064 DT#2#29 [D#2] >  https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar 
+2018-11-15 20:57:25,183 DT#1#28 [D#1] >  https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar 
+2018-11-15 20:57:25,328 DT#1#28 [D#1] >  https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar 
+2018-11-15 20:57:26,399 DT#2#29 [D#2] >  https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar 
+2018-11-15 20:57:26,860 DT#3#30 [D#3] >  https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar 
+2018-11-15 20:57:26,961 DT#3#30 [D#3] >  https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar 
+2018-11-15 20:57:27,131 DT#2#29 [D#2] >  https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar 
+2018-11-15 20:57:27,222 DT#2#29 [D#2] >  https://libraries.minecraft.net/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-64.jar 
+2018-11-15 20:57:27,707 DT#2#29 [D#2] >  https://libraries.minecraft.net/tv/twitch/twitch/6.5/twitch-6.5.jar 
+2018-11-15 20:57:28,405 DT#2#29 [D#2] >  https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar 
+2018-11-15 20:57:28,505 DT#2#29 [D#2] >  https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar 
+2018-11-15 20:57:28,670 DT#2#29 [D#2] >  https://launcher.mojang.com/v1/objects/d722504db9de2b47f46cc592b8528446272ae648/client.jar 
+2018-11-15 20:57:29,869 DT#2#29 [D#2] >  Found additional destinations. Copying... 
+2018-11-15 20:57:29,871 DT#2#29 [D#2] >  Copying C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.8\1.8.jar.bak... 
+2018-11-15 20:57:29,887 DT#2#29 [D#2] >  Success! 
+2018-11-15 20:57:29,888 DT#2#29 [D#2] >  Copying completed. 
+2018-11-15 20:57:29,948 LoopedThread#7 [Launcher] Unpacking natives...
+2018-11-15 20:57:30,189 LoopedThread#7 [Launcher] Constructing process...
+2018-11-15 20:57:30,190 LoopedThread#7 [Launcher] Constructing classpath...
+2018-11-15 20:57:30,193 LoopedThread#7 [Launcher] Getting Minecraft arguments...
+2018-11-15 20:57:30,195 LoopedThread#7 read servers from servers.dat []
+2018-11-15 20:57:30,196 LoopedThread#7 [InnerMinecraftServersImpl]  search removed servers
+2018-11-15 20:57:30,197 LoopedThread#7 [InnerMinecraftServersImpl]  prepare inner servers
+2018-11-15 20:57:30,200 LoopedThread#7 save servers to servers.dat []
+2018-11-15 20:57:30,231 LoopedThread#7 [Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe -Xmn128M -Xmx7274M -Djava.library.path=C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.8\natives -cp C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\netty\1.6\netty-1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.6.1\realms-1.6.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.8\1.8.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main --username AlecRuin --version 1.8 --gameDir C:\Users\Ruin\AppData\Roaming\.minecraft --assetsDir C:\Users\Ruin\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid bb97c27be93c11e88716002590a1379b --accessToken 8f1e5a54-da92-45a6-bd51-04927c026f7e --userProperties {} --userType mojang --width 925 --height 530
+2018-11-15 20:57:30,292 LoopedThread#7 [Launcher] Launching Minecraft...
+2018-11-15 20:57:30,294 LoopedThread#7 I'm hiding!
+2018-11-15 20:57:30,296 LoopedThread#7 [TLauncherManager] before onMinecraftLaunch 
+2018-11-15 20:57:30,298 LoopedThread#7 [TLauncherManager] read from  C:\Users\Ruin\AppData\Roaming\.minecraft\TempOptifineStore-1.0.json []
+2018-11-15 20:57:30,303 LoopedThread#7 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-11-15 20:57:30,305 LoopedThread#7 [TLauncherManager] after onMinecraftLaunch 
+2018-11-15 20:57:30,306 LoopedThread#7 [Launcher] Starting Minecraft 1.8...
+2018-11-15 20:57:30,307 LoopedThread#7 [Launcher] Launching in: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 20:57:30,312 LoopedThread#7 [Launcher] Processing post-launch actions. Assist launch: true
+2018-11-15 20:57:31,843 Thread-20 ===============================================================================================
+2018-11-15 20:57:31,845 Thread-20 > [20:57:31] [Client thread/INFO]: Setting user: AlecRuin
+2018-11-15 20:57:31,848 Thread-20 > [20:57:31] [Client thread/INFO]: (Session ID is token:8f1e5a54-da92-45a6-bd51-04927c026f7e:bb97c27be93c11e88716002590a1379b)
+2018-11-15 20:57:33,454 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.attack:key.mouse.left
+2018-11-15 20:57:33,456 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.use:key.mouse.right
+2018-11-15 20:57:33,458 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.forward:key.keyboard.w
+2018-11-15 20:57:33,460 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.left:key.keyboard.a
+2018-11-15 20:57:33,462 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.back:key.keyboard.s
+2018-11-15 20:57:33,463 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.right:key.keyboard.d
+2018-11-15 20:57:33,465 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.jump:key.keyboard.space
+2018-11-15 20:57:33,467 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.sneak:key.keyboard.left.shift
+2018-11-15 20:57:33,469 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.sprint:key.keyboard.left.control
+2018-11-15 20:57:33,471 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.drop:key.keyboard.q
+2018-11-15 20:57:33,473 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.inventory:key.keyboard.e
+2018-11-15 20:57:33,474 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.chat:key.keyboard.t
+2018-11-15 20:57:33,476 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.playerlist:key.keyboard.tab
+2018-11-15 20:57:33,478 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.pickItem:key.mouse.middle
+2018-11-15 20:57:33,479 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.command:key.keyboard.slash
+2018-11-15 20:57:33,481 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.screenshot:key.keyboard.f2
+2018-11-15 20:57:33,482 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.togglePerspective:key.keyboard.f5
+2018-11-15 20:57:33,485 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.smoothCamera:key.keyboard.unknown
+2018-11-15 20:57:33,487 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.fullscreen:key.keyboard.f11
+2018-11-15 20:57:33,488 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.spectatorOutlines:key.keyboard.unknown
+2018-11-15 20:57:33,490 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.1:key.keyboard.1
+2018-11-15 20:57:33,491 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.2:key.keyboard.2
+2018-11-15 20:57:33,493 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.3:key.keyboard.3
+2018-11-15 20:57:33,494 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.4:key.keyboard.4
+2018-11-15 20:57:33,495 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.5:key.keyboard.5
+2018-11-15 20:57:33,497 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.6:key.keyboard.6
+2018-11-15 20:57:33,498 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.7:key.keyboard.7
+2018-11-15 20:57:33,500 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.8:key.keyboard.8
+2018-11-15 20:57:33,501 Thread-20 > [20:57:33] [Client thread/WARN]: Skipping bad option: key_key.hotbar.9:key.keyboard.9
+2018-11-15 20:57:33,502 Thread-20 > [20:57:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+2018-11-15 20:57:34,105 Thread-20 > [20:57:34] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-11-15 20:57:34,866 Thread-20 > [20:57:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-11-15 20:57:35,120 Thread-20 > [20:57:35] [Thread-6/INFO]: Initializing LWJGL OpenAL
+2018-11-15 20:57:35,122 Thread-20 > [20:57:35] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2018-11-15 20:57:35,255 Thread-20 > [20:57:35] [Thread-6/INFO]: OpenAL initialized.
+2018-11-15 20:57:35,514 Thread-20 > [20:57:35] [Sound Library Loader/INFO]: Sound engine started
+2018-11-15 20:57:36,841 Thread-20 > [20:57:36] [Client thread/INFO]: Created: 512x512 textures-atlas
+2018-11-15 20:58:20,284 Thread-20 > [20:58:20] [Client thread/INFO]: Connecting to 192.168.1.110, 63124
+2018-11-15 20:58:42,312 Thread-20 > [20:58:42] [Server Connector #1/ERROR]: Couldn't connect to server
+2018-11-15 20:58:42,314 Thread-20 > java.net.ConnectException: Connection timed out: no further information: 192.168.1.110/192.168.1.110:63124
+2018-11-15 20:58:42,315 Thread-20 > 	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_171]
+2018-11-15 20:58:42,317 Thread-20 > 	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_171]
+2018-11-15 20:58:42,318 Thread-20 > 	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:191) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,320 Thread-20 > 	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:255) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,322 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:502) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,324 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,326 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,328 Thread-20 > 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 20:58:42,332 Thread-20 > 	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_171]
+2018-11-15 20:59:41,045 Thread-20 > [20:59:41] [Client thread/INFO]: Connecting to 25.8.175.96, 63124
+2018-11-15 21:00:02,211 Thread-20 > [21:00:02] [Server Connector #2/ERROR]: Couldn't connect to server
+2018-11-15 21:00:02,212 Thread-20 > java.net.ConnectException: Connection timed out: no further information: 25.8.175.96/25.8.175.96:63124
+2018-11-15 21:00:02,214 Thread-20 > 	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_171]
+2018-11-15 21:00:02,215 Thread-20 > 	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_171]
+2018-11-15 21:00:02,217 Thread-20 > 	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:191) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,219 Thread-20 > 	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:255) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,221 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:502) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,223 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:452) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,225 Thread-20 > 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:346) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,227 Thread-20 > 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) ~[netty-all-4.0.15.Final.jar:4.0.15.Final]
+2018-11-15 21:00:02,229 Thread-20 > 	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_171]
+2018-11-15 21:40:56,374 Thread-20 > [21:40:56] [Client thread/INFO]: Connecting to localhost, 25565
+2018-11-15 21:51:19,211 Thread-20 > [21:51:19] [Client thread/INFO]: Stopping!
+2018-11-15 21:51:19,212 Thread-20 > [21:51:19] [Client thread/INFO]: SoundSystem shutting down...
+2018-11-15 21:51:19,415 Thread-20 > [21:51:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2018-11-15 21:51:19,848 Thread-20 Here I am!
+2018-11-15 21:51:19,883 Thread-20 [VersionManager] Refreshing versions locally...
+2018-11-15 21:51:19,889 Thread-20 [VersionManager] Versions has been refreshed (6 ms)
+2018-11-15 21:51:19,897 Thread-20 [Launcher] Minecraft closed with exit code: 0
+2018-11-15 21:51:19,906 LoopedThread#7 [Launcher] Launcher exited.
+2018-11-15 21:51:27,420 LoopedThread#7 [LoginForm] Catched a wait task from this listener, waiting...
+2018-11-15 21:51:27,421 LoopedThread#7 instancefor: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 21:51:27,430 LoopedThread#7 [TlauncherAuthenticator] Staring to authenticate: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 21:51:27,433 LoopedThread#7 [TlauncherAuthenticator] hasUsername: AlecRuin
+2018-11-15 21:51:27,434 LoopedThread#7 [TlauncherAuthenticator] hasPassword: false
+2018-11-15 21:51:27,435 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 21:51:27,436 LoopedThread#7 [TlauncherAuthenticator] Loggining in with token
+2018-11-15 21:51:27,932 LoopedThread#7 [TlauncherAuthenticator] Log in successful!
+2018-11-15 21:51:27,933 LoopedThread#7 [TlauncherAuthenticator] hasUUID: true
+2018-11-15 21:51:27,934 LoopedThread#7 [TlauncherAuthenticator] hasAccessToken: true
+2018-11-15 21:51:27,935 LoopedThread#7 [TlauncherAuthenticator] hasProfiles: false
+2018-11-15 21:51:27,935 LoopedThread#7 [TlauncherAuthenticator] hasProfile: false
+2018-11-15 21:51:27,936 LoopedThread#7 [TlauncherAuthenticator] hasProperties: true
+2018-11-15 21:51:27,944 LoopedThread#7 [LoginForm] Login was OK. Trying to launch now.
+2018-11-15 21:51:28,216 LoopedThread#7 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-11-15 21:51:28,217 LoopedThread#7 [Launcher] Running under TLauncher 2.48
+2018-11-15 21:51:28,217 LoopedThread#7 [Launcher] Current machine: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+2018-11-15 21:51:28,219 LoopedThread#7 [Launcher] Collecting info...
+2018-11-15 21:51:28,226 LoopedThread#7 [TLauncherManager] before clearLibrary 
+2018-11-15 21:51:28,228 LoopedThread#7 [TLauncherManager] written:  []
+2018-11-15 21:51:28,229 LoopedThread#7 [TLauncherManager] after clearLibrary 
+2018-11-15 21:51:28,230 LoopedThread#7 [Launcher] Force update: false
+2018-11-15 21:51:28,230 LoopedThread#7 [Launcher] Selected version: latest-release
+2018-11-15 21:51:28,231 LoopedThread#7 [Launcher] Selected account: Account{displayName=AlecRuin, type=TLAUNCHER, accessToken=(not null), userid=AlecRuin, uuid=bb97c27be93c11e88716002590a1379b, username=AlecRuin}
+2018-11-15 21:51:28,233 LoopedThread#7 [Launcher] Version sync info: VersionSyncInfo{id='1.13.2',
+local=CompleteVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13.1', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.14', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.19', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@15d7a96a, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@50d525b4, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13.2', time=Tue Nov 06 07:39:05 CST 2018, release=Mon Oct 22 05:41:07 CST 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@77841c20}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-11-15 21:51:28,319 LoopedThread#7 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+2018-11-15 21:51:28,321 LoopedThread#7 [Launcher] Checking conditions...
+2018-11-15 21:51:28,322 LoopedThread#7 [Launcher] Comparing assets...
+2018-11-15 21:51:28,323 LoopedThread#7 [AssetsManager] Checking resources...
+2018-11-15 21:51:28,324 LoopedThread#7 [AssetsManager] Reading indexes from file C:\Users\Ruin\AppData\Roaming\.minecraft\assets\indexes\1.13.1.json
+2018-11-15 21:51:28,335 LoopedThread#7 [AssetsManager] Fast comparing: true
+2018-11-15 21:51:28,724 LoopedThread#7 [Launcher] Delta time to compare assets: 399 ms.
+2018-11-15 21:51:28,969 LoopedThread#7 [VersionManager] Required for version 1.13.2: []
+2018-11-15 21:51:28,970 LoopedThread#7 [Modpack]  got container
+2018-11-15 21:51:28,982 LoopedThread#7 [Launcher] Unpacking natives...
+2018-11-15 21:51:28,996 LoopedThread#7 [Launcher] Constructing process...
+2018-11-15 21:51:28,997 LoopedThread#7 [Launcher] Constructing classpath...
+2018-11-15 21:51:29,000 LoopedThread#7 [Launcher] Getting Minecraft arguments...
+2018-11-15 21:51:29,002 LoopedThread#7 read servers from servers.dat []
+2018-11-15 21:51:29,002 LoopedThread#7 [InnerMinecraftServersImpl]  search removed servers
+2018-11-15 21:51:29,003 LoopedThread#7 [InnerMinecraftServersImpl]  prepare inner servers
+2018-11-15 21:51:29,005 LoopedThread#7 save servers to servers.dat []
+2018-11-15 21:51:29,007 LoopedThread#7 [Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe -Xmn128M -Xmx7274M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.14\brigadier-1.0.14.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\1.0.19\datafixerupper-1.0.19.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.13.9\realms-1.13.9.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\Ruin\AppData\Roaming\.minecraft\versions\1.13.2\1.13.2.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main --username AlecRuin --version 1.13.2 --gameDir C:\Users\Ruin\AppData\Roaming\.minecraft --assetsDir C:\Users\Ruin\AppData\Roaming\.minecraft\assets --assetIndex 1.13.1 --uuid bb97c27be93c11e88716002590a1379b --accessToken 4652dec7-d08c-44b1-8bde-0edca70a8994 --userType mojang --versionType release --width 925 --height 530
+2018-11-15 21:51:29,073 LoopedThread#7 [Launcher] Launching Minecraft...
+2018-11-15 21:51:29,075 LoopedThread#7 I'm hiding!
+2018-11-15 21:51:29,076 LoopedThread#7 [TLauncherManager] before onMinecraftLaunch 
+2018-11-15 21:51:29,077 LoopedThread#7 [TLauncherManager] read from  C:\Users\Ruin\AppData\Roaming\.minecraft\TempOptifineStore-1.0.json []
+2018-11-15 21:51:29,079 LoopedThread#7 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-11-15 21:51:29,081 LoopedThread#7 [TLauncherManager] after onMinecraftLaunch 
+2018-11-15 21:51:29,082 LoopedThread#7 [Launcher] Starting Minecraft latest-release...
+2018-11-15 21:51:29,083 LoopedThread#7 [Launcher] Launching in: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 21:51:29,124 LoopedThread#7 [Launcher] Processing post-launch actions. Assist launch: true
+2018-11-15 21:51:30,325 Thread-21 ===============================================================================================
+2018-11-15 21:51:30,327 Thread-21 > [21:51:30] [Client thread/INFO]: Setting user: AlecRuin
+2018-11-15 21:51:32,157 Thread-21 > [21:51:32] [Client thread/WARN]: Skipping bad option: streamPreferredServer:
+2018-11-15 21:51:32,229 Thread-21 > [21:51:32] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-11-15 21:51:33,576 Thread-21 > [21:51:33] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-11-15 21:51:34,592 Thread-21 > [21:51:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-11-15 21:51:34,819 Thread-21 > [21:51:34] [Thread-2/INFO]: Initializing No Sound
+2018-11-15 21:51:34,821 Thread-21 > [21:51:34] [Thread-2/INFO]: (Silent Mode)
+2018-11-15 21:51:34,887 Thread-21 > [21:51:34] [Thread-2/INFO]: OpenAL initialized.
+2018-11-15 21:51:35,200 Thread-21 > [21:51:35] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-11-15 21:51:35,204 Thread-21 > [21:51:35] [Sound Library Loader/INFO]: Sound engine started
+2018-11-15 21:51:40,298 Thread-21 > [21:51:40] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-11-15 21:51:42,391 Thread-21 > [21:51:42] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-11-15 21:51:43,175 Thread-21 > [21:51:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-11-15 21:51:48,844 Thread-21 > [21:51:48] [Client thread/INFO]: Connecting to localhost, 25565
+2018-11-15 21:51:58,464 Thread-21 > [21:51:58] [Client thread/INFO]: Stopping!
+2018-11-15 21:51:58,999 Thread-21 > [21:51:58] [Client thread/INFO]: SoundSystem shutting down...
+2018-11-15 21:51:59,202 Thread-21 > [21:51:59] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-11-15 21:51:59,536 Thread-21 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-11-15 21:51:59,619 Thread-21 Here I am!
+2018-11-15 21:51:59,621 Thread-21 [VersionManager] Refreshing versions locally...
+2018-11-15 21:51:59,648 Thread-21 [VersionManager] Versions has been refreshed (26 ms)
+2018-11-15 21:51:59,656 Thread-21 [Launcher] Minecraft closed with exit code: 0
+2018-11-15 21:51:59,666 LoopedThread#7 [Launcher] Launcher exited.
+2018-11-15 22:00:53,013 AWT-EventQueue-0 Good bye!

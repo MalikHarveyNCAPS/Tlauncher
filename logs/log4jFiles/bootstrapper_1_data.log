@@ -1,0 +1,61 @@
+2018-11-15 19:38:22,243 main 
+2018-11-15 19:38:22,244 main -------------------------------------------------------------------
+2018-11-15 19:38:22,355 main [Bootstrapper] createLauncher
+2018-11-15 19:38:22,356 main [Bootstrapper] validate files
+2018-11-15 19:38:22,506 main [Bootstrapper] end validated files
+2018-11-15 19:38:22,507 main [Bootstrapper] Starting launcher...
+2018-11-15 19:38:22,632 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2018-11-15 19:38:22,769 Thread-2 > [Loading] INITALIZING
+2018-11-15 19:38:23,481 Thread-2 > Starting TLauncher 2.48
+2018-11-15 19:38:23,481 Thread-2 > For more information, visit https://tlauncher.org/
+2018-11-15 19:38:23,486 Thread-2 > Machine info: Windows 7 6.1, Java 1.8.0_171 ,jvm bit=x64, 8174 MB RAM
+2018-11-15 19:38:23,486 Thread-2 > Startup time: Nov 15, 2018 7:38:23 PM
+2018-11-15 19:38:23,486 Thread-2 > ---
+2018-11-15 19:38:23,911 Thread-2 > [Loading] LOADING_CONFIGURATION
+2018-11-15 19:38:23,912 Thread-2 > Loading configuration from file: C:\Users\Ruin\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2018-11-15 19:38:23,926 Thread-2 > [Configuration] Constant values: {}
+2018-11-15 19:38:23,943 Thread-2 > Selected locale: en_US
+2018-11-15 19:38:23,980 Thread-2 > [Loading] LOADING_CONSOLE
+2018-11-15 19:38:24,366 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2018-11-15 19:38:24,575 Thread-2 > 
+2018-11-15 19:38:24,585 Thread-2 > [Downloader2] Loaded configuration: good
+2018-11-15 19:38:24,704 Thread-2 > [Updater] Requesting an update...
+2018-11-15 19:38:24,706 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-11-15 19:38:24,707 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.48&client=2e291208-3e1e-4e52-b77f-0b84ad9691ea
+2018-11-15 19:38:24,833 Thread-2 > [Browser] Loading resources...
+2018-11-15 19:38:24,990 Thread-2 > [Browser] Loading background...
+2018-11-15 19:38:25,060 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2018-11-15 19:38:25,074 Thread-2 > [Browser] Cleaning up after loading:
+2018-11-15 19:38:25,074 Thread-2 > Starting garbage collector: 55 / 128 MB
+2018-11-15 19:38:25,136 Thread-2 > Garbage collector completed: 15 / 138 MB
+2018-11-15 19:38:25,138 Thread-2 > [Loading] LOADING_MANAGERS
+2018-11-15 19:38:25,139 Thread-2 > [Browser] Running in JavaFX Thread
+2018-11-15 19:38:25,139 Thread-2 > [Browser] Preparing JavaFX...
+2018-11-15 19:38:25,146 Thread-2 > [LocalVersionList] Base directory: C:\Users\Ruin\AppData\Roaming\.minecraft
+2018-11-15 19:38:25,154 Thread-2 > [ProfileManager] Refreshing profiles from: C:\Users\Ruin\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2018-11-15 19:38:25,158 Thread-2 > [TLauncherManager] Refresh allowed: true
+2018-11-15 19:38:25,158 Thread-2 > [TLauncherManager] Refreshing TLauncher...
+2018-11-15 19:38:25,159 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2018-11-15 19:38:25,159 Thread-2 > [Updater] Request time: 454 ms
+2018-11-15 19:38:25,160 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-11-15 19:38:25,160 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-11-15 19:38:25,203 Thread-2 > [Browser] Initializing...
+2018-11-15 19:38:25,439 Thread-2 > [TLauncherManager] Refreshed successfully!
+2018-11-15 19:38:25,498 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2018-11-15 19:38:25,501 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-11-15 19:38:25,900 Thread-2 > [Loading] LOADING_WINDOW
+2018-11-15 19:38:25,927 Thread-2 > [Loading] PREPARING_MAINPANE
+2018-11-15 19:38:26,277 Thread-2 > [Downloader2] Loaded configuration: good
+2018-11-15 19:38:26,476 Thread-2 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2018-11-15 19:38:26,477 Thread-2 > [Browser@859533504] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2018-11-15 19:38:26,566 Thread-2 > [Browser] add listens into server_choose
+2018-11-15 19:38:27,145 Thread-2 > [Loading] POSTINIT_GUI
+2018-11-15 19:38:27,146 Thread-2 > [Frame] Packing main frame...
+2018-11-15 19:38:27,188 Thread-2 > [Frame] Resizing main pane...
+2018-11-15 19:38:27,188 Thread-2 > Updater is already closed. Showing up...
+2018-11-15 19:38:27,188 Thread-2 > Visibility set.
+2018-11-15 19:38:27,189 Thread-2 > [Loading] REFRESHING_INFO
+2018-11-15 19:38:27,192 Thread-2 > [VersionManager] Refreshing versions remotely...
+2018-11-15 19:38:27,192 Thread-2 > Started! (3281 ms.)
+2018-11-15 19:38:27,192 Thread-2 > [Loading] SUCCESS
+2018-11-15 19:38:27,192 Thread-2 [Bootstrapper] I can be terminated now.
